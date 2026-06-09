@@ -1,9 +1,8 @@
 ---
 name: gemini-tts
 description: >-
-  Generates spoken audio from text transcripts using Gemini API text-to-speech (TTS) models
-  tailored specifically for Android app development in Kotlin. Use when you want to convert text
-  into voice outputs, configure single/multi-speaker voices, steer speech styles with natural language or
+  This skill is used to implement Android text-to-speech features in Kotlin using Gemini API text-to-speech (TTS) models.
+  Use it when you need to convert text into voice outputs, configure single/multi-speaker voices, steer speech styles with natural language or
   inline tags, and play back or process the resulting PCM audio on Android devices.
 ---
 
